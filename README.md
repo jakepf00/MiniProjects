@@ -24,6 +24,10 @@ Jacob: School -> SDSU<br>
 John: Birthdate -> 11/08<br>
 John: School -> UMN<br>
 
+## Rubik's Cube Solver
+
+This program solves the Rubik's cube. It accomplishes the task utilizing Thistlethwaite's algorithm.
+
 
 ## Spell Check
 
