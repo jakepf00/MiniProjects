@@ -24,6 +24,11 @@ Jacob: School -> SDSU<br>
 John: Birthdate -> 11/08<br>
 John: School -> UMN<br>
 
+## Diffie-Hellman Key Exchange
+
+This program simulates a Diffie-Hellman Key Exchange between two terminal sessions. Written referencing [this]([this](http://www.youtube.com/watch?v=UDyRrlCLhp0) video by Practical Networking.
+
+
 ## Rubik's Cube Solver
 
 This program solves the Rubik's cube. It accomplishes the task utilizing Thistlethwaite's algorithm.
