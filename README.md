@@ -26,7 +26,13 @@ John: School -> UMN<br>
 
 ## Diffie-Hellman Key Exchange
 
-This program simulates a Diffie-Hellman Key Exchange between two terminal sessions. Written referencing [this]([this](http://www.youtube.com/watch?v=UDyRrlCLhp0) video by Practical Networking.
+This program simulates a Diffie-Hellman Key Exchange between two terminal sessions. Written referencing [this](http://www.youtube.com/watch?v=UDyRrlCLhp0) video by Practical Networking.<br>
+
+In order to run, open two terminals in the same location. Compile the program and run the executable in each terminal window providing the name of each host as follows:<br>
+Terminal 1<br>
+`$ ./a.out host1 host2`<br>
+Terminal 2<br>
+`$ ./a.out host2 host1`<br>
 
 
 ## Rubik's Cube Solver
